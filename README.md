@@ -1,1 +1,1 @@
-<h1>$ sudo nuke</h1>
+<h1>~$ sudo nuke</h1>
