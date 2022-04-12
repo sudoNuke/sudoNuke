@@ -9,7 +9,7 @@ Here their are:
   <li>I know how to code Visual basic 6</li>
   <li>Also hard chunky C, cuz i code on an arduino board</li>
   <li>Currently learning for the first time the Phyton language (it's really easy when you code hard language before)</li>
-  <li>And i know html + also css and learning now the javasrpit too</li>
+  <li>And i know html + also css and learning now the javascript too</li>
   <li>Also, i know how to model 3d things on blender, pretty cool no?</li>
 </ol>
 What i have:
